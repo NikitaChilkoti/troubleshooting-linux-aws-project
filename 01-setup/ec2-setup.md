@@ -35,10 +35,8 @@ Add these inbound rules:
 | HTTP | 80   | Access website    |
 
 I took help from chatGPT for this table :)
----
 
-## Why is this important?
-
+You know why is this important?
 * Without SSH → you cannot connect
 * Without HTTP → website will not open
 
@@ -60,12 +58,9 @@ ssh -i your-key.pem ubuntu@your-public-ip
 
 You may see:
 
-```
 Are you sure you want to continue connecting?
-```
 
 Type:
-
 ```
 yes
 ```
@@ -148,11 +143,7 @@ You should see:
 
 ## Common Mistakes
 
-SSH not working → Check key permission
-
-```
-chmod 400 your-key.pem
-```
+SSH not working → Check key permission `chmod 400 your-key.pem`
 
 Website not opening → Check port 80 is allowed in Security Group
 
