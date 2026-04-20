@@ -1,14 +1,10 @@
-## Flask App
+## Flask App 
 
-## What are we doing?
+### In this step, we are creating a simple backend application using Python.
 
-In this step, we are creating a simple backend application using Python.
+This app will run on port 5000 and respond to browser requests. Later, Nginx will connect to this app.
 
-This app will:
-run on port 5000
-respond to browser requests
-
-Later, Nginx will connect to this app.
+---
 
 ## Before that what is Flask?
 
@@ -146,7 +142,7 @@ source venv/bin/activate
 
 ---
 
-## We Learned
+## What we Learned
 
 * How to run a backend app
 * How ports work (5000)
@@ -165,10 +161,4 @@ Nginx will act as the real server.
 
 ---
 
-## Final Result
-
-We now have a running backend service on port 5000.
-
----
-
-Next step is to Connect Flask with Nginx, that's Reverse Proxy.
+## So, we now have a running backend service on port 5000. Next step is to Connect Flask with Nginx, that's Reverse Proxy.
