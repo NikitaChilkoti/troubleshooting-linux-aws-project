@@ -149,12 +149,8 @@ Flask App Running
 
 | Issue       | Cause | Fix  |
 | ---------- | ---- | ------- |
-| 502 bad gateway | Flask is not running | `ps aux | grep python` |
-| Site not reachable | Port 80 not open in Security Group | Go to AWS EC2 → Security Group
-Add inbound rule:
-Type: HTTP
-Port: 80
-Source: 0.0.0.0/0 |
+| 502 bad gateway | Flask is not running | `ps aux l grep python` |
+| Site not reachable | Port 80 not open in Security Group | Go to AWS EC2 → Security Group     Add inbound rule: Type: HTTP Port: 80 Source: 0.0.0.0/0 |
 | Default Nginx page showing | Default config not removed | sudo rm /etc/nginx/sites-enabled/default sudo systemctl restart nginx |
 
 
