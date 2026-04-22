@@ -173,4 +173,4 @@ User → Nginx → Flask
 ```
 
 ---
-Next step is Simulating real-world failures and debugging them
+Next step is Simulating real-world failures and debugging them, that's [troubleshooting](../04-troubleshooting)
