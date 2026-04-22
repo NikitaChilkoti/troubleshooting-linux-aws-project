@@ -52,5 +52,4 @@ ls -l
 ```
 
 ---
-## Wanted to look at other issue aspects, so simulated another issue ___.
-
+## Wanted to look at other issue aspects, so simulated another issue on port mismatch
