@@ -53,4 +53,4 @@ sudo systemctl restart nginx
 ```bash
 nginx -t
 ```
-Simulated another issue __.
+Simulated another issue [related to permission](./issue-3-403-forbidden.md)
