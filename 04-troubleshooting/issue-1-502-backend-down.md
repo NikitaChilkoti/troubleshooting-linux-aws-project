@@ -42,4 +42,4 @@ python3 app.py
 
 ---
 
-## Now the website is up and running. Simulated another issue __.
+## Now the website is up and running. Simulated another issue [Nginx configuration error](./issue-2-Nginx-config-error.md)
