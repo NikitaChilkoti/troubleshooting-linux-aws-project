@@ -5,7 +5,7 @@ This project demonstrates how to set up and manage a real-world Linux server on 
 Instead of just deploying a server, this project focuses on **learning through real scenarios** by:
 - Deploying a backend application  
 - Configuring a reverse proxy using Nginx  
-- Intentionally creating real-world issues (as I said, still less than the glasses that I have broken)
+- Intentionally creating real-world issues (as I said, more than the glasses that I have broken)
 - Debugging and resolving them step by step
 
 I have tried writing the entire project in a **beginner-friendly, teaching style**, so anyone can follow along easily.
@@ -23,4 +23,3 @@ By going through this project, I understood:
 
 ---
 
-### Hey! Can you tell what's different in this Readme.md file than the description of this repo?
