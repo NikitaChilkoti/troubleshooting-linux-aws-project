@@ -161,4 +161,4 @@ Nginx will act as the real server.
 
 ---
 
-## So, we now have a running backend service on port 5000. Next step is to Connect Flask with Nginx, that's Reverse Proxy.
+## So, we now have a running backend service on port 5000. Next step is to Connect Flask with Nginx, that's [Reverse Proxy](../03-setup/reverse-proxy.md)
