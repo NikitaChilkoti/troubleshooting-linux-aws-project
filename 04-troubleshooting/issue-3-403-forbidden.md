@@ -52,4 +52,5 @@ ls -l
 ```
 
 ---
-## Wanted to look at other issue aspects, so simulated another issue on port mismatch
+## Wanted to look at other issue aspects, so simulated another issue on [port mismatch](./issue-4-port-mismatch.md)
+
