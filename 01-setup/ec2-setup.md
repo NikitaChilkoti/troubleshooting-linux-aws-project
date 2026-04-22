@@ -149,4 +149,4 @@ Website not opening → Check port 80 is allowed in Security Group
 
 ---
 
-## Finally! We have Nginx running on our EC2 instance. Next setup is __. 
+## Finally! We have Nginx running on our EC2 instance. Next setup is [Flask app](../02-setup/flask-app.md)
